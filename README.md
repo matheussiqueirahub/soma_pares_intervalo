@@ -7,11 +7,6 @@ Este repositório contém scripts simples em Python para fins educacionais, dese
 - `positivozeronegativo.py`  
   Verifica se um número é **positivo**, **negativo** ou **zero**.
 
-- `jogo_adivinhacao.py`  
-  Simula um jogo onde o jogador tenta adivinhar o número 7 em até 3 tentativas.
-
-- `soma_pares_intervalo.py`  
-  Solicita um intervalo e soma todos os números pares dentro dele.
 
 ## ▶️ Como Executar
 
